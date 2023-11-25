@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void) {
-    write(1,"Hello, World!", 9);
-    printf("\nHello, World!");
+    write(1,"Hello, World!", 15);
+    printf("\ncodificando C no VS Code");
 }
